@@ -9,3 +9,5 @@ Don't forget where you left off by serializing where you are into the URL, curre
 ## Mouse macro
 Record a series of mouse actions and play them back automatically. Press ALT + R to start recording, press ALT + R to end recording. Press ALT + T to play the macro once, press ALT + Y to play the macro indefinitely in a loop.
   - Some extra work needed to be done for different SPA and JS frameworks to register macro clicks as actual clicks.
+## Twitter one-click Block
+Make blocking accounts easier, reducing numbers of steps required to block.
