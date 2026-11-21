@@ -11,3 +11,5 @@ Record a series of mouse actions and play them back automatically. Press ALT + R
   - Some extra work needed to be done for different SPA and JS frameworks to register macro clicks as actual clicks.
 ## Twitter one-click Block
 Make blocking accounts easier, reducing numbers of steps required to block.
+## Old Reddit Embed
+Embed media in old reddit, fixing `<image>` type placeholders.
